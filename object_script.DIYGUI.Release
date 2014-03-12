@@ -1,0 +1,12 @@
+INPUT(
+./release\XmlReader.o
+./release\textwidget.o
+./release\mainwindow.o
+./release\main.o
+./release\loaddlg.o
+./release\Gui.o
+./release\paintwidget.o
+./release\moc_mainwindow.o
+./release\moc_loaddlg.o
+./release\moc_paintwidget.o
+);

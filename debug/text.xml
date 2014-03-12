@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gui>
+ <srctype>TXT</srctype>
+ <src>main.xml</src>
+ <menu>
+  <label>File</label> 
+  <item>
+   <label>Exit</label>
+   <icon>../images/Shutdown</icon>
+   <cmd>EXIT</cmd>
+  </item>
+ </menu>
+</gui>

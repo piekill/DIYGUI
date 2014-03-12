@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gui>
+ <background>../images/bkg</background>
+ <menu>
+  <label>File</label> 
+  <item>
+   <label>Open</label>
+   <icon>../images/Search</icon>
+   <cmd>text.xml</cmd>
+  </item>
+  <item>
+   <label>Exit</label>
+   <icon>../images/Shutdown</icon>
+   <cmd>EXIT</cmd>
+  </item>
+ </menu>
+ <menu>
+  <label>Help</label>
+  <item>
+   <label>About</label>
+   <icon>../images/Help</icon>
+   <cmd>about.xml</cmd>
+  </item>
+ </menu>
+ <toolbar>
+  <tool>1,1</tool>
+  <tool>2,1</tool>
+ </toolbar>
+</gui>

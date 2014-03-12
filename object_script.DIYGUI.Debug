@@ -1,0 +1,12 @@
+INPUT(
+./debug\XmlReader.o
+./debug\textwidget.o
+./debug\mainwindow.o
+./debug\main.o
+./debug\loaddlg.o
+./debug\Gui.o
+./debug\paintwidget.o
+./debug\moc_mainwindow.o
+./debug\moc_loaddlg.o
+./debug\moc_paintwidget.o
+);

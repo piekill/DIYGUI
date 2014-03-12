@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gui>
+ <srctype>MESSAGE</srctype>
+ <src>  
+      This program help you to 
+      DIY the GUI you want.   
+	
+      Version 1.0
+
+      Author:200731500061       </src>
+</gui>
